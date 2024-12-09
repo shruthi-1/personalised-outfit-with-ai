@@ -1,0 +1,321 @@
+Body Type,Color Palette,Gender,Top,Bottom,Accessory,Shoe,Occasion,Weather,Fabric Type,Fit Style,Age Group,Color Description,Price Range,Brand Name,Cultural Relevance,Trends
+Hourglass,Spring,Male,Crop Top,Chinos,Watch,Heels,Sports,Cloudy,Wool,Regular Fit,Adults,Muted colors,Affordable,Nike,Minimalist,Y2K Style
+Hourglass,Spring,Male,Blouse,Shorts,Scarf,Flip-Flops,Casual,Cloudy,Silk,Slim Fit,Seniors,Muted colors,Luxury,Nike,Traditional,Streetwear
+Hourglass,Spring,Male,Shirt,Culottes,Watch,Moccasins,Formal,Rainy,Silk,Regular Fit,Seniors,Bright hues,Luxury,Nike,Modern,Y2K Style
+Hourglass,Spring,Male,Polo Shirt,Overalls,Earrings,Sneakers,Formal,Cloudy,Polyester,Loose Fit,Seniors,Pastel tones,Luxury,Uniqlo,Fusion,Y2K Style
+Hourglass,Spring,Male,Hoodie,Jeans,Hat,Boots,Casual,Sunny,Polyester,Slim Fit,Adults,Muted colors,Mid-range,Uniqlo,Modern,Athleisure
+Hourglass,Spring,Male,Polo Shirt,Trousers,Ring,Flip-Flops,Formal,Sunny,Wool,Slim Fit,Adults,Bright hues,Luxury,Nike,Minimalist,Boho Chic
+Hourglass,Spring,Male,Vest,Leggings,Earrings,Heels,Casual,Sunny,Polyester,Slim Fit,Teens,Earthy shades,Luxury,Nike,Traditional,Boho Chic
+Hourglass,Spring,Male,Shirt,Culottes,Necklace,Loafers,Party,Snowy,Polyester,Slim Fit,Adults,Bright hues,Mid-range,Zara,Minimalist,Athleisure
+Hourglass,Spring,Male,Crop Top,Leggings,Hat,Wedges,Party,Rainy,Silk,Loose Fit,Teens,Pastel tones,Luxury,H&M,Minimalist,Athleisure
+Hourglass,Spring,Male,T-shirt,Overalls,Earrings,Wedges,Formal,Rainy,Cotton,Regular Fit,Seniors,Pastel tones,Affordable,Zara,Traditional,Streetwear
+Hourglass,Spring,Female,Shirt,Shorts,Bracelet,Wedges,Formal,Rainy,Polyester,Slim Fit,Adults,Earthy shades,Luxury,Nike,Fusion,Athleisure
+Hourglass,Spring,Female,Vest,Overalls,Bracelet,Sneakers,Formal,Sunny,Silk,Loose Fit,Teens,Bright hues,Affordable,Uniqlo,Fusion,Y2K Style
+Hourglass,Spring,Female,Hoodie,Trousers,Hat,Sandals,Casual,Cloudy,Wool,Loose Fit,Teens,Bright hues,Affordable,Uniqlo,Fusion,Athleisure
+Hourglass,Spring,Female,Cardigan,Overalls,Watch,Boots,Sports,Cloudy,Silk,Loose Fit,Adults,Bright hues,Luxury,Uniqlo,Modern,Streetwear
+Hourglass,Spring,Female,Cardigan,Shorts,Sunglasses,Sandals,Casual,Sunny,Polyester,Loose Fit,Seniors,Pastel tones,Affordable,H&M,Minimalist,Streetwear
+Hourglass,Spring,Female,Crop Top,Trousers,Earrings,Oxfords,Party,Sunny,Wool,Slim Fit,Teens,Bright hues,Affordable,Uniqlo,Minimalist,Athleisure
+Hourglass,Spring,Female,Shirt,Chinos,Scarf,Moccasins,Casual,Rainy,Silk,Slim Fit,Teens,Earthy shades,Affordable,Nike,Traditional,Boho Chic
+Hourglass,Spring,Female,Shirt,Chinos,Ring,Wedges,Sports,Rainy,Silk,Slim Fit,Teens,Bright hues,Mid-range,H&M,Minimalist,Streetwear
+Hourglass,Spring,Female,Cardigan,Leggings,Ring,Boots,Party,Cloudy,Wool,Loose Fit,Adults,Muted colors,Luxury,Nike,Minimalist,Athleisure
+Hourglass,Spring,Female,Vest,Skirt,Sunglasses,Loafers,Sports,Snowy,Cotton,Loose Fit,Seniors,Earthy shades,Luxury,Nike,Modern,Athleisure
+Hourglass,Summer,Male,Vest,Cargo Pants,Handbag,Wedges,Casual,Snowy,Wool,Loose Fit,Teens,Earthy shades,Affordable,Nike,Fusion,Boho Chic
+Hourglass,Summer,Male,Vest,Culottes,Earrings,Heels,Casual,Snowy,Wool,Slim Fit,Teens,Muted colors,Mid-range,Uniqlo,Minimalist,Boho Chic
+Hourglass,Summer,Male,Polo Shirt,Shorts,Handbag,Sandals,Sports,Sunny,Wool,Loose Fit,Seniors,Earthy shades,Affordable,Nike,Minimalist,Y2K Style
+Hourglass,Summer,Male,Blouse,Joggers,Scarf,Moccasins,Casual,Rainy,Wool,Slim Fit,Seniors,Pastel tones,Luxury,Zara,Fusion,Streetwear
+Hourglass,Summer,Male,Cardigan,Shorts,Watch,Moccasins,Formal,Rainy,Wool,Regular Fit,Adults,Bright hues,Luxury,H&M,Minimalist,Y2K Style
+Hourglass,Summer,Male,Blouse,Chinos,Sunglasses,Sneakers,Casual,Sunny,Wool,Loose Fit,Seniors,Earthy shades,Mid-range,Uniqlo,Modern,Streetwear
+Hourglass,Summer,Male,Shirt,Shorts,Sunglasses,Flip-Flops,Casual,Sunny,Polyester,Regular Fit,Teens,Muted colors,Affordable,Nike,Traditional,Boho Chic
+Hourglass,Summer,Male,Polo Shirt,Shorts,Handbag,Wedges,Party,Snowy,Cotton,Loose Fit,Seniors,Muted colors,Luxury,Zara,Modern,Y2K Style
+Hourglass,Summer,Male,Sweater,Skirt,Bracelet,Boots,Sports,Snowy,Silk,Loose Fit,Seniors,Bright hues,Luxury,Nike,Minimalist,Y2K Style
+Hourglass,Summer,Male,Sweater,Leggings,Earrings,Heels,Party,Cloudy,Cotton,Loose Fit,Seniors,Muted colors,Affordable,Uniqlo,Modern,Streetwear
+Hourglass,Summer,Female,Polo Shirt,Leggings,Ring,Loafers,Party,Rainy,Polyester,Loose Fit,Teens,Pastel tones,Mid-range,Zara,Fusion,Athleisure
+Hourglass,Summer,Female,Crop Top,Leggings,Bracelet,Slippers,Sports,Snowy,Wool,Slim Fit,Adults,Muted colors,Luxury,Uniqlo,Minimalist,Y2K Style
+Hourglass,Summer,Female,Polo Shirt,Overalls,Ring,Moccasins,Party,Cloudy,Silk,Regular Fit,Seniors,Bright hues,Mid-range,Nike,Modern,Y2K Style
+Hourglass,Summer,Female,Polo Shirt,Shorts,Ring,Wedges,Formal,Snowy,Polyester,Regular Fit,Teens,Pastel tones,Affordable,Zara,Modern,Athleisure
+Hourglass,Summer,Female,Shirt,Cargo Pants,Watch,Sandals,Sports,Snowy,Cotton,Slim Fit,Adults,Earthy shades,Mid-range,Nike,Modern,Boho Chic
+Hourglass,Summer,Female,Tank Top,Skirt,Watch,Oxfords,Sports,Snowy,Polyester,Slim Fit,Seniors,Bright hues,Affordable,H&M,Traditional,Athleisure
+Hourglass,Summer,Female,Polo Shirt,Overalls,Earrings,Heels,Formal,Cloudy,Wool,Slim Fit,Seniors,Pastel tones,Luxury,Nike,Modern,Y2K Style
+Hourglass,Summer,Female,Vest,Shorts,Sunglasses,Heels,Formal,Sunny,Silk,Slim Fit,Seniors,Earthy shades,Affordable,Uniqlo,Fusion,Y2K Style
+Hourglass,Summer,Female,Shirt,Leggings,Sunglasses,Sandals,Sports,Snowy,Polyester,Regular Fit,Adults,Pastel tones,Luxury,Zara,Traditional,Athleisure
+Hourglass,Summer,Female,Crop Top,Skirt,Bracelet,Flip-Flops,Sports,Cloudy,Silk,Slim Fit,Adults,Muted colors,Mid-range,Uniqlo,Traditional,Y2K Style
+Hourglass,Autumn,Male,Blouse,Chinos,Watch,Loafers,Casual,Cloudy,Polyester,Regular Fit,Teens,Bright hues,Mid-range,Uniqlo,Minimalist,Y2K Style
+Hourglass,Autumn,Male,Hoodie,Overalls,Necklace,Slippers,Party,Sunny,Silk,Regular Fit,Teens,Muted colors,Mid-range,Uniqlo,Minimalist,Streetwear
+Hourglass,Autumn,Male,Crop Top,Skirt,Belt,Oxfords,Formal,Cloudy,Cotton,Slim Fit,Teens,Bright hues,Affordable,Nike,Fusion,Boho Chic
+Hourglass,Autumn,Male,Cardigan,Shorts,Belt,Sneakers,Formal,Rainy,Silk,Regular Fit,Teens,Pastel tones,Mid-range,Zara,Fusion,Streetwear
+Hourglass,Autumn,Male,Crop Top,Jeans,Hat,Oxfords,Formal,Sunny,Cotton,Loose Fit,Adults,Pastel tones,Mid-range,H&M,Minimalist,Y2K Style
+Hourglass,Autumn,Male,Hoodie,Trousers,Earrings,Slippers,Formal,Sunny,Silk,Regular Fit,Seniors,Muted colors,Affordable,Uniqlo,Fusion,Boho Chic
+Hourglass,Autumn,Male,Shirt,Trousers,Bracelet,Oxfords,Casual,Sunny,Wool,Loose Fit,Teens,Bright hues,Luxury,H&M,Modern,Athleisure
+Hourglass,Autumn,Male,Sweater,Cargo Pants,Scarf,Oxfords,Sports,Cloudy,Cotton,Loose Fit,Adults,Pastel tones,Affordable,Zara,Fusion,Streetwear
+Hourglass,Autumn,Male,T-shirt,Chinos,Handbag,Flip-Flops,Formal,Cloudy,Cotton,Slim Fit,Adults,Muted colors,Affordable,Zara,Traditional,Streetwear
+Hourglass,Autumn,Male,Sweater,Shorts,Ring,Wedges,Formal,Sunny,Silk,Loose Fit,Teens,Bright hues,Luxury,Zara,Fusion,Streetwear
+Hourglass,Autumn,Female,Crop Top,Jeans,Sunglasses,Slippers,Formal,Rainy,Wool,Slim Fit,Teens,Earthy shades,Affordable,Uniqlo,Traditional,Y2K Style
+Hourglass,Autumn,Female,Cardigan,Jeans,Handbag,Sandals,Sports,Sunny,Cotton,Loose Fit,Adults,Earthy shades,Luxury,H&M,Minimalist,Athleisure
+Hourglass,Autumn,Female,Vest,Jeans,Hat,Moccasins,Formal,Snowy,Silk,Loose Fit,Adults,Earthy shades,Luxury,Zara,Fusion,Boho Chic
+Hourglass,Autumn,Female,Vest,Jeans,Sunglasses,Wedges,Party,Snowy,Wool,Loose Fit,Teens,Pastel tones,Affordable,Nike,Traditional,Boho Chic
+Hourglass,Autumn,Female,Vest,Trousers,Necklace,Boots,Formal,Snowy,Silk,Loose Fit,Adults,Bright hues,Affordable,H&M,Traditional,Athleisure
+Hourglass,Autumn,Female,Vest,Jeans,Belt,Sneakers,Party,Rainy,Polyester,Regular Fit,Adults,Muted colors,Affordable,Nike,Minimalist,Y2K Style
+Hourglass,Autumn,Female,Shirt,Jeans,Ring,Flip-Flops,Casual,Snowy,Silk,Loose Fit,Adults,Bright hues,Luxury,Uniqlo,Modern,Athleisure
+Hourglass,Autumn,Female,Sweater,Cargo Pants,Watch,Loafers,Sports,Cloudy,Cotton,Loose Fit,Adults,Pastel tones,Luxury,H&M,Modern,Streetwear
+Hourglass,Autumn,Female,Polo Shirt,Culottes,Watch,Flip-Flops,Formal,Snowy,Silk,Loose Fit,Teens,Muted colors,Luxury,Nike,Minimalist,Athleisure
+Hourglass,Autumn,Female,Crop Top,Joggers,Watch,Oxfords,Formal,Rainy,Polyester,Loose Fit,Seniors,Bright hues,Luxury,Zara,Fusion,Y2K Style
+Hourglass,Winter,Male,Polo Shirt,Chinos,Ring,Flip-Flops,Formal,Cloudy,Wool,Slim Fit,Adults,Pastel tones,Luxury,Nike,Minimalist,Y2K Style
+Hourglass,Winter,Male,Sweater,Shorts,Belt,Flip-Flops,Casual,Rainy,Silk,Loose Fit,Seniors,Earthy shades,Mid-range,Zara,Fusion,Y2K Style
+Hourglass,Winter,Male,Sweater,Shorts,Sunglasses,Oxfords,Party,Rainy,Cotton,Regular Fit,Adults,Earthy shades,Mid-range,Zara,Minimalist,Boho Chic
+Hourglass,Winter,Male,Shirt,Leggings,Watch,Loafers,Casual,Cloudy,Cotton,Regular Fit,Seniors,Muted colors,Luxury,Nike,Minimalist,Boho Chic
+Hourglass,Winter,Male,Crop Top,Trousers,Ring,Sneakers,Casual,Sunny,Polyester,Loose Fit,Teens,Earthy shades,Mid-range,H&M,Traditional,Streetwear
+Hourglass,Winter,Male,Blouse,Shorts,Bracelet,Sneakers,Casual,Rainy,Polyester,Regular Fit,Teens,Muted colors,Mid-range,Zara,Fusion,Boho Chic
+Hourglass,Winter,Male,Shirt,Cargo Pants,Hat,Boots,Formal,Snowy,Cotton,Regular Fit,Teens,Earthy shades,Luxury,Nike,Minimalist,Streetwear
+Hourglass,Winter,Male,Polo Shirt,Cargo Pants,Belt,Moccasins,Sports,Sunny,Polyester,Regular Fit,Seniors,Muted colors,Affordable,Zara,Traditional,Athleisure
+Hourglass,Winter,Male,T-shirt,Jeans,Earrings,Heels,Formal,Cloudy,Wool,Regular Fit,Teens,Bright hues,Mid-range,Uniqlo,Minimalist,Athleisure
+Hourglass,Winter,Male,Crop Top,Skirt,Ring,Sandals,Formal,Rainy,Wool,Loose Fit,Seniors,Earthy shades,Affordable,Uniqlo,Modern,Y2K Style
+Hourglass,Winter,Female,Sweater,Joggers,Sunglasses,Wedges,Party,Snowy,Wool,Regular Fit,Seniors,Earthy shades,Luxury,Uniqlo,Minimalist,Athleisure
+Hourglass,Winter,Female,Cardigan,Shorts,Ring,Flip-Flops,Casual,Sunny,Wool,Loose Fit,Seniors,Muted colors,Affordable,Nike,Minimalist,Boho Chic
+Hourglass,Winter,Female,Shirt,Cargo Pants,Necklace,Oxfords,Party,Sunny,Polyester,Loose Fit,Teens,Muted colors,Mid-range,Nike,Modern,Athleisure
+Hourglass,Winter,Female,Cardigan,Leggings,Sunglasses,Wedges,Formal,Snowy,Wool,Regular Fit,Teens,Muted colors,Luxury,Zara,Fusion,Athleisure
+Hourglass,Winter,Female,Polo Shirt,Trousers,Handbag,Sandals,Casual,Sunny,Polyester,Loose Fit,Teens,Bright hues,Affordable,Nike,Traditional,Athleisure
+Hourglass,Winter,Female,Blouse,Overalls,Earrings,Slippers,Sports,Sunny,Silk,Regular Fit,Adults,Earthy shades,Luxury,H&M,Fusion,Y2K Style
+Hourglass,Winter,Female,Polo Shirt,Joggers,Handbag,Boots,Formal,Snowy,Silk,Slim Fit,Seniors,Pastel tones,Luxury,Nike,Minimalist,Streetwear
+Hourglass,Winter,Female,Vest,Culottes,Sunglasses,Flip-Flops,Formal,Sunny,Wool,Loose Fit,Teens,Earthy shades,Luxury,Nike,Traditional,Streetwear
+Hourglass,Winter,Female,Shirt,Cargo Pants,Sunglasses,Sandals,Formal,Sunny,Wool,Loose Fit,Teens,Pastel tones,Affordable,H&M,Modern,Athleisure
+Hourglass,Winter,Female,Hoodie,Jeans,Handbag,Moccasins,Sports,Sunny,Cotton,Regular Fit,Seniors,Earthy shades,Affordable,H&M,Minimalist,Boho Chic
+Rectangle,Spring,Male,Polo Shirt,Joggers,Ring,Wedges,Casual,Sunny,Cotton,Slim Fit,Seniors,Pastel tones,Mid-range,Uniqlo,Traditional,Athleisure
+Rectangle,Spring,Male,Sweater,Joggers,Necklace,Sandals,Party,Sunny,Wool,Regular Fit,Teens,Bright hues,Affordable,H&M,Minimalist,Y2K Style
+Rectangle,Spring,Male,Hoodie,Culottes,Necklace,Flip-Flops,Casual,Snowy,Cotton,Slim Fit,Teens,Earthy shades,Luxury,Nike,Traditional,Boho Chic
+Rectangle,Spring,Male,Tank Top,Joggers,Earrings,Sandals,Sports,Cloudy,Polyester,Loose Fit,Adults,Pastel tones,Mid-range,Uniqlo,Modern,Boho Chic
+Rectangle,Spring,Male,Cardigan,Skirt,Belt,Wedges,Casual,Rainy,Wool,Slim Fit,Seniors,Pastel tones,Affordable,Uniqlo,Modern,Athleisure
+Rectangle,Spring,Male,Tank Top,Culottes,Watch,Heels,Casual,Sunny,Polyester,Regular Fit,Seniors,Muted colors,Luxury,Nike,Fusion,Athleisure
+Rectangle,Spring,Male,Tank Top,Shorts,Belt,Oxfords,Party,Cloudy,Wool,Slim Fit,Adults,Bright hues,Affordable,Nike,Minimalist,Boho Chic
+Rectangle,Spring,Male,Crop Top,Trousers,Earrings,Heels,Sports,Sunny,Wool,Loose Fit,Seniors,Bright hues,Mid-range,Zara,Minimalist,Boho Chic
+Rectangle,Spring,Male,Blouse,Leggings,Ring,Wedges,Formal,Cloudy,Cotton,Loose Fit,Seniors,Muted colors,Luxury,H&M,Modern,Boho Chic
+Rectangle,Spring,Male,Shirt,Joggers,Ring,Sandals,Party,Snowy,Silk,Slim Fit,Teens,Earthy shades,Luxury,H&M,Modern,Streetwear
+Rectangle,Spring,Female,Sweater,Cargo Pants,Bracelet,Sandals,Sports,Snowy,Silk,Slim Fit,Teens,Earthy shades,Affordable,Nike,Minimalist,Boho Chic
+Rectangle,Spring,Female,Sweater,Trousers,Hat,Boots,Formal,Sunny,Wool,Loose Fit,Adults,Pastel tones,Affordable,Uniqlo,Fusion,Athleisure
+Rectangle,Spring,Female,Sweater,Chinos,Bracelet,Sandals,Party,Sunny,Silk,Regular Fit,Seniors,Muted colors,Luxury,Zara,Minimalist,Y2K Style
+Rectangle,Spring,Female,Vest,Leggings,Bracelet,Sandals,Sports,Snowy,Polyester,Regular Fit,Teens,Pastel tones,Luxury,H&M,Modern,Streetwear
+Rectangle,Spring,Female,Cardigan,Shorts,Sunglasses,Sandals,Party,Sunny,Polyester,Loose Fit,Teens,Earthy shades,Luxury,Nike,Minimalist,Boho Chic
+Rectangle,Spring,Female,Cardigan,Chinos,Handbag,Moccasins,Formal,Snowy,Wool,Regular Fit,Teens,Pastel tones,Mid-range,Nike,Fusion,Athleisure
+Rectangle,Spring,Female,Crop Top,Leggings,Necklace,Sneakers,Formal,Cloudy,Silk,Regular Fit,Seniors,Pastel tones,Mid-range,Zara,Traditional,Y2K Style
+Rectangle,Spring,Female,Shirt,Culottes,Belt,Loafers,Sports,Cloudy,Cotton,Regular Fit,Teens,Muted colors,Mid-range,Zara,Fusion,Y2K Style
+Rectangle,Spring,Female,T-shirt,Shorts,Belt,Slippers,Casual,Rainy,Wool,Slim Fit,Adults,Muted colors,Affordable,Zara,Minimalist,Boho Chic
+Rectangle,Spring,Female,Sweater,Chinos,Belt,Boots,Casual,Snowy,Wool,Loose Fit,Adults,Earthy shades,Mid-range,Nike,Modern,Streetwear
+Rectangle,Summer,Male,Tank Top,Culottes,Handbag,Sandals,Sports,Rainy,Wool,Loose Fit,Teens,Earthy shades,Affordable,H&M,Traditional,Y2K Style
+Rectangle,Summer,Male,Vest,Culottes,Ring,Sandals,Formal,Rainy,Cotton,Regular Fit,Teens,Bright hues,Affordable,Nike,Modern,Athleisure
+Rectangle,Summer,Male,T-shirt,Overalls,Necklace,Heels,Sports,Sunny,Polyester,Slim Fit,Seniors,Bright hues,Mid-range,Zara,Minimalist,Boho Chic
+Rectangle,Summer,Male,Cardigan,Skirt,Sunglasses,Oxfords,Sports,Rainy,Polyester,Regular Fit,Seniors,Pastel tones,Mid-range,Uniqlo,Modern,Y2K Style
+Rectangle,Summer,Male,T-shirt,Culottes,Bracelet,Oxfords,Casual,Sunny,Wool,Regular Fit,Seniors,Muted colors,Affordable,Uniqlo,Fusion,Boho Chic
+Rectangle,Summer,Male,Tank Top,Skirt,Belt,Sneakers,Casual,Rainy,Silk,Slim Fit,Adults,Bright hues,Luxury,H&M,Minimalist,Y2K Style
+Rectangle,Summer,Male,T-shirt,Skirt,Necklace,Heels,Party,Sunny,Cotton,Loose Fit,Teens,Muted colors,Luxury,Zara,Minimalist,Streetwear
+Rectangle,Summer,Male,T-shirt,Trousers,Sunglasses,Loafers,Sports,Rainy,Polyester,Slim Fit,Seniors,Earthy shades,Affordable,Zara,Traditional,Boho Chic
+Rectangle,Summer,Male,Tank Top,Shorts,Ring,Sneakers,Party,Cloudy,Wool,Slim Fit,Seniors,Pastel tones,Mid-range,Zara,Traditional,Athleisure
+Rectangle,Summer,Male,Crop Top,Overalls,Handbag,Slippers,Formal,Cloudy,Polyester,Regular Fit,Seniors,Pastel tones,Luxury,Zara,Minimalist,Streetwear
+Rectangle,Summer,Female,Sweater,Overalls,Hat,Loafers,Sports,Sunny,Polyester,Loose Fit,Teens,Muted colors,Affordable,Nike,Traditional,Y2K Style
+Rectangle,Summer,Female,T-shirt,Joggers,Handbag,Boots,Formal,Sunny,Cotton,Slim Fit,Teens,Pastel tones,Affordable,Zara,Fusion,Boho Chic
+Rectangle,Summer,Female,Hoodie,Joggers,Bracelet,Slippers,Casual,Sunny,Cotton,Slim Fit,Seniors,Muted colors,Luxury,Uniqlo,Minimalist,Streetwear
+Rectangle,Summer,Female,T-shirt,Leggings,Belt,Boots,Formal,Snowy,Polyester,Slim Fit,Teens,Muted colors,Mid-range,Nike,Minimalist,Athleisure
+Rectangle,Summer,Female,Polo Shirt,Jeans,Necklace,Wedges,Sports,Snowy,Cotton,Regular Fit,Teens,Pastel tones,Mid-range,Nike,Minimalist,Boho Chic
+Rectangle,Summer,Female,Hoodie,Chinos,Ring,Wedges,Party,Cloudy,Silk,Loose Fit,Adults,Pastel tones,Luxury,Nike,Fusion,Streetwear
+Rectangle,Summer,Female,Hoodie,Shorts,Watch,Boots,Sports,Snowy,Silk,Slim Fit,Seniors,Bright hues,Mid-range,Nike,Minimalist,Streetwear
+Rectangle,Summer,Female,Crop Top,Cargo Pants,Earrings,Slippers,Casual,Rainy,Silk,Loose Fit,Seniors,Muted colors,Affordable,Nike,Traditional,Boho Chic
+Rectangle,Summer,Female,Tank Top,Cargo Pants,Hat,Moccasins,Formal,Snowy,Wool,Loose Fit,Adults,Pastel tones,Luxury,H&M,Minimalist,Streetwear
+Rectangle,Summer,Female,Blouse,Leggings,Scarf,Moccasins,Sports,Rainy,Polyester,Slim Fit,Adults,Earthy shades,Mid-range,Uniqlo,Traditional,Streetwear
+Rectangle,Autumn,Male,Cardigan,Shorts,Belt,Wedges,Party,Cloudy,Cotton,Loose Fit,Teens,Pastel tones,Affordable,Nike,Traditional,Athleisure
+Rectangle,Autumn,Male,Vest,Joggers,Necklace,Heels,Sports,Snowy,Cotton,Loose Fit,Adults,Muted colors,Affordable,Zara,Traditional,Streetwear
+Rectangle,Autumn,Male,Blouse,Overalls,Sunglasses,Slippers,Sports,Snowy,Wool,Loose Fit,Teens,Bright hues,Affordable,H&M,Traditional,Streetwear
+Rectangle,Autumn,Male,T-shirt,Shorts,Belt,Moccasins,Casual,Rainy,Silk,Loose Fit,Seniors,Bright hues,Affordable,Uniqlo,Traditional,Y2K Style
+Rectangle,Autumn,Male,Polo Shirt,Shorts,Belt,Sandals,Formal,Snowy,Wool,Slim Fit,Adults,Pastel tones,Affordable,Nike,Minimalist,Streetwear
+Rectangle,Autumn,Male,Cardigan,Shorts,Ring,Wedges,Formal,Cloudy,Polyester,Slim Fit,Teens,Muted colors,Mid-range,H&M,Modern,Streetwear
+Rectangle,Autumn,Male,Cardigan,Skirt,Sunglasses,Wedges,Sports,Sunny,Polyester,Slim Fit,Adults,Earthy shades,Affordable,Uniqlo,Modern,Athleisure
+Rectangle,Autumn,Male,Cardigan,Joggers,Ring,Sneakers,Sports,Cloudy,Silk,Slim Fit,Teens,Earthy shades,Luxury,H&M,Modern,Streetwear
+Rectangle,Autumn,Male,Sweater,Skirt,Hat,Heels,Formal,Rainy,Wool,Loose Fit,Seniors,Pastel tones,Affordable,Nike,Modern,Athleisure
+Rectangle,Autumn,Male,Hoodie,Skirt,Necklace,Loafers,Formal,Rainy,Wool,Slim Fit,Adults,Earthy shades,Affordable,Zara,Modern,Boho Chic
+Rectangle,Autumn,Female,Tank Top,Jeans,Scarf,Boots,Formal,Cloudy,Wool,Regular Fit,Adults,Pastel tones,Mid-range,Nike,Traditional,Streetwear
+Rectangle,Autumn,Female,Tank Top,Jeans,Ring,Boots,Party,Snowy,Wool,Loose Fit,Teens,Earthy shades,Affordable,H&M,Minimalist,Boho Chic
+Rectangle,Autumn,Female,Tank Top,Skirt,Watch,Loafers,Sports,Cloudy,Silk,Loose Fit,Teens,Earthy shades,Affordable,H&M,Traditional,Streetwear
+Rectangle,Autumn,Female,T-shirt,Joggers,Scarf,Sneakers,Sports,Sunny,Wool,Regular Fit,Adults,Earthy shades,Affordable,H&M,Minimalist,Athleisure
+Rectangle,Autumn,Female,Sweater,Cargo Pants,Scarf,Sneakers,Casual,Sunny,Polyester,Loose Fit,Adults,Earthy shades,Affordable,Uniqlo,Minimalist,Streetwear
+Rectangle,Autumn,Female,T-shirt,Shorts,Necklace,Wedges,Formal,Sunny,Polyester,Slim Fit,Adults,Earthy shades,Mid-range,H&M,Traditional,Boho Chic
+Rectangle,Autumn,Female,Shirt,Culottes,Watch,Slippers,Casual,Snowy,Silk,Loose Fit,Adults,Pastel tones,Luxury,H&M,Traditional,Boho Chic
+Rectangle,Autumn,Female,Hoodie,Cargo Pants,Earrings,Slippers,Sports,Snowy,Silk,Loose Fit,Seniors,Earthy shades,Mid-range,Zara,Minimalist,Streetwear
+Rectangle,Autumn,Female,Polo Shirt,Chinos,Sunglasses,Wedges,Casual,Rainy,Silk,Loose Fit,Seniors,Bright hues,Luxury,H&M,Fusion,Athleisure
+Rectangle,Autumn,Female,Sweater,Jeans,Hat,Sandals,Formal,Cloudy,Cotton,Loose Fit,Adults,Muted colors,Luxury,Zara,Modern,Athleisure
+Rectangle,Winter,Male,Cardigan,Leggings,Hat,Slippers,Sports,Sunny,Cotton,Regular Fit,Adults,Pastel tones,Luxury,Nike,Traditional,Boho Chic
+Rectangle,Winter,Male,Vest,Shorts,Sunglasses,Boots,Party,Snowy,Wool,Loose Fit,Teens,Pastel tones,Luxury,H&M,Modern,Y2K Style
+Rectangle,Winter,Male,Shirt,Trousers,Ring,Wedges,Party,Sunny,Polyester,Loose Fit,Teens,Bright hues,Mid-range,H&M,Traditional,Streetwear
+Rectangle,Winter,Male,Crop Top,Chinos,Earrings,Boots,Party,Rainy,Cotton,Loose Fit,Teens,Earthy shades,Mid-range,Zara,Modern,Boho Chic
+Rectangle,Winter,Male,Cardigan,Shorts,Watch,Wedges,Sports,Rainy,Polyester,Loose Fit,Seniors,Pastel tones,Affordable,Nike,Minimalist,Boho Chic
+Rectangle,Winter,Male,Vest,Joggers,Ring,Sneakers,Sports,Rainy,Cotton,Regular Fit,Adults,Muted colors,Affordable,Uniqlo,Minimalist,Boho Chic
+Rectangle,Winter,Male,Tank Top,Overalls,Sunglasses,Slippers,Formal,Rainy,Silk,Regular Fit,Seniors,Muted colors,Luxury,Uniqlo,Modern,Boho Chic
+Rectangle,Winter,Male,Cardigan,Cargo Pants,Ring,Sandals,Casual,Snowy,Wool,Slim Fit,Seniors,Pastel tones,Luxury,Uniqlo,Traditional,Boho Chic
+Rectangle,Winter,Male,Cardigan,Overalls,Scarf,Sneakers,Casual,Sunny,Wool,Slim Fit,Adults,Bright hues,Affordable,Zara,Fusion,Y2K Style
+Rectangle,Winter,Male,Crop Top,Shorts,Hat,Moccasins,Formal,Cloudy,Cotton,Loose Fit,Adults,Muted colors,Affordable,H&M,Modern,Y2K Style
+Rectangle,Winter,Female,Crop Top,Skirt,Hat,Sneakers,Party,Cloudy,Cotton,Slim Fit,Teens,Pastel tones,Affordable,Uniqlo,Traditional,Streetwear
+Rectangle,Winter,Female,Crop Top,Shorts,Sunglasses,Slippers,Party,Snowy,Polyester,Loose Fit,Adults,Earthy shades,Luxury,Zara,Traditional,Y2K Style
+Rectangle,Winter,Female,Tank Top,Leggings,Sunglasses,Heels,Party,Rainy,Cotton,Regular Fit,Teens,Pastel tones,Luxury,H&M,Modern,Boho Chic
+Rectangle,Winter,Female,Cardigan,Overalls,Bracelet,Heels,Formal,Sunny,Wool,Slim Fit,Teens,Bright hues,Luxury,Uniqlo,Minimalist,Boho Chic
+Rectangle,Winter,Female,T-shirt,Shorts,Hat,Slippers,Sports,Cloudy,Silk,Loose Fit,Adults,Pastel tones,Affordable,Uniqlo,Fusion,Boho Chic
+Rectangle,Winter,Female,Hoodie,Joggers,Belt,Boots,Formal,Snowy,Silk,Slim Fit,Adults,Bright hues,Mid-range,Zara,Fusion,Y2K Style
+Rectangle,Winter,Female,Shirt,Leggings,Scarf,Loafers,Formal,Cloudy,Silk,Loose Fit,Adults,Earthy shades,Affordable,Zara,Traditional,Athleisure
+Rectangle,Winter,Female,Tank Top,Overalls,Watch,Loafers,Casual,Cloudy,Silk,Slim Fit,Adults,Muted colors,Affordable,Uniqlo,Minimalist,Streetwear
+Rectangle,Winter,Female,T-shirt,Culottes,Ring,Flip-Flops,Sports,Snowy,Cotton,Regular Fit,Teens,Muted colors,Luxury,Uniqlo,Traditional,Boho Chic
+Rectangle,Winter,Female,Cardigan,Skirt,Watch,Oxfords,Casual,Sunny,Silk,Regular Fit,Seniors,Bright hues,Affordable,Uniqlo,Traditional,Athleisure
+Pear,Spring,Male,Tank Top,Culottes,Necklace,Moccasins,Sports,Rainy,Silk,Slim Fit,Adults,Bright hues,Affordable,Nike,Modern,Y2K Style
+Pear,Spring,Male,Cardigan,Culottes,Scarf,Wedges,Party,Snowy,Wool,Slim Fit,Adults,Bright hues,Luxury,Uniqlo,Modern,Athleisure
+Pear,Spring,Male,Vest,Jeans,Necklace,Wedges,Party,Sunny,Cotton,Loose Fit,Teens,Bright hues,Affordable,Zara,Modern,Streetwear
+Pear,Spring,Male,Blouse,Leggings,Bracelet,Wedges,Sports,Sunny,Polyester,Loose Fit,Seniors,Muted colors,Affordable,Uniqlo,Minimalist,Athleisure
+Pear,Spring,Male,Blouse,Trousers,Ring,Loafers,Party,Cloudy,Cotton,Loose Fit,Teens,Muted colors,Affordable,H&M,Minimalist,Y2K Style
+Pear,Spring,Male,Hoodie,Joggers,Earrings,Flip-Flops,Casual,Rainy,Cotton,Slim Fit,Seniors,Earthy shades,Luxury,H&M,Minimalist,Athleisure
+Pear,Spring,Male,Polo Shirt,Shorts,Belt,Slippers,Formal,Rainy,Silk,Slim Fit,Seniors,Earthy shades,Mid-range,H&M,Modern,Streetwear
+Pear,Spring,Male,Cardigan,Leggings,Handbag,Sneakers,Formal,Snowy,Wool,Regular Fit,Seniors,Pastel tones,Mid-range,Nike,Minimalist,Boho Chic
+Pear,Spring,Male,Cardigan,Jeans,Necklace,Sneakers,Party,Cloudy,Silk,Loose Fit,Teens,Pastel tones,Mid-range,Zara,Traditional,Athleisure
+Pear,Spring,Male,Polo Shirt,Chinos,Scarf,Oxfords,Formal,Cloudy,Polyester,Regular Fit,Seniors,Earthy shades,Affordable,Zara,Minimalist,Streetwear
+Pear,Spring,Female,Cardigan,Skirt,Handbag,Sandals,Sports,Cloudy,Polyester,Slim Fit,Adults,Pastel tones,Luxury,Nike,Minimalist,Boho Chic
+Pear,Spring,Female,Tank Top,Trousers,Handbag,Flip-Flops,Casual,Rainy,Wool,Loose Fit,Adults,Pastel tones,Luxury,Nike,Traditional,Boho Chic
+Pear,Spring,Female,Polo Shirt,Joggers,Handbag,Moccasins,Party,Rainy,Cotton,Regular Fit,Adults,Earthy shades,Affordable,H&M,Minimalist,Athleisure
+Pear,Spring,Female,Sweater,Leggings,Ring,Slippers,Casual,Cloudy,Silk,Loose Fit,Adults,Earthy shades,Luxury,Uniqlo,Modern,Athleisure
+Pear,Spring,Female,Tank Top,Cargo Pants,Earrings,Sneakers,Casual,Cloudy,Silk,Regular Fit,Teens,Muted colors,Affordable,Uniqlo,Traditional,Y2K Style
+Pear,Spring,Female,Cardigan,Overalls,Necklace,Moccasins,Sports,Rainy,Polyester,Slim Fit,Adults,Earthy shades,Luxury,H&M,Fusion,Y2K Style
+Pear,Spring,Female,Hoodie,Culottes,Belt,Heels,Party,Snowy,Cotton,Slim Fit,Adults,Bright hues,Affordable,Zara,Traditional,Boho Chic
+Pear,Spring,Female,Polo Shirt,Jeans,Belt,Oxfords,Party,Rainy,Cotton,Regular Fit,Teens,Earthy shades,Mid-range,H&M,Minimalist,Y2K Style
+Pear,Spring,Female,Vest,Culottes,Earrings,Moccasins,Party,Cloudy,Cotton,Regular Fit,Adults,Muted colors,Luxury,Zara,Fusion,Streetwear
+Pear,Spring,Female,T-shirt,Culottes,Scarf,Sneakers,Sports,Sunny,Wool,Regular Fit,Teens,Bright hues,Affordable,H&M,Fusion,Streetwear
+Pear,Summer,Male,Polo Shirt,Joggers,Earrings,Flip-Flops,Party,Cloudy,Cotton,Slim Fit,Teens,Bright hues,Mid-range,Zara,Modern,Boho Chic
+Pear,Summer,Male,Vest,Skirt,Bracelet,Heels,Party,Snowy,Wool,Loose Fit,Teens,Muted colors,Affordable,H&M,Fusion,Boho Chic
+Pear,Summer,Male,Hoodie,Jeans,Watch,Slippers,Party,Snowy,Polyester,Regular Fit,Teens,Pastel tones,Affordable,Nike,Modern,Boho Chic
+Pear,Summer,Male,Hoodie,Cargo Pants,Sunglasses,Slippers,Party,Snowy,Wool,Slim Fit,Seniors,Muted colors,Mid-range,Uniqlo,Modern,Streetwear
+Pear,Summer,Male,Tank Top,Joggers,Bracelet,Wedges,Casual,Snowy,Silk,Regular Fit,Adults,Bright hues,Mid-range,Zara,Minimalist,Athleisure
+Pear,Summer,Male,Crop Top,Skirt,Handbag,Heels,Party,Sunny,Cotton,Loose Fit,Adults,Pastel tones,Affordable,Uniqlo,Modern,Athleisure
+Pear,Summer,Male,Sweater,Jeans,Belt,Flip-Flops,Formal,Snowy,Wool,Regular Fit,Adults,Pastel tones,Affordable,Nike,Traditional,Y2K Style
+Pear,Summer,Male,Shirt,Cargo Pants,Earrings,Moccasins,Party,Cloudy,Wool,Loose Fit,Teens,Bright hues,Affordable,H&M,Fusion,Boho Chic
+Pear,Summer,Male,Shirt,Cargo Pants,Scarf,Moccasins,Sports,Rainy,Wool,Slim Fit,Seniors,Bright hues,Affordable,Zara,Traditional,Boho Chic
+Pear,Summer,Male,Blouse,Leggings,Watch,Oxfords,Party,Sunny,Polyester,Slim Fit,Seniors,Pastel tones,Affordable,Nike,Minimalist,Y2K Style
+Pear,Summer,Female,Crop Top,Trousers,Ring,Boots,Casual,Rainy,Silk,Loose Fit,Seniors,Pastel tones,Affordable,Nike,Traditional,Y2K Style
+Pear,Summer,Female,Crop Top,Leggings,Handbag,Sandals,Formal,Rainy,Wool,Loose Fit,Teens,Muted colors,Affordable,Uniqlo,Modern,Boho Chic
+Pear,Summer,Female,Blouse,Leggings,Scarf,Heels,Party,Cloudy,Silk,Slim Fit,Adults,Earthy shades,Mid-range,Uniqlo,Fusion,Athleisure
+Pear,Summer,Female,Vest,Overalls,Sunglasses,Sneakers,Party,Sunny,Cotton,Loose Fit,Teens,Pastel tones,Affordable,H&M,Fusion,Boho Chic
+Pear,Summer,Female,Blouse,Trousers,Bracelet,Moccasins,Formal,Snowy,Polyester,Regular Fit,Adults,Earthy shades,Luxury,Uniqlo,Fusion,Streetwear
+Pear,Summer,Female,Polo Shirt,Cargo Pants,Necklace,Flip-Flops,Casual,Sunny,Wool,Regular Fit,Seniors,Pastel tones,Mid-range,Zara,Fusion,Y2K Style
+Pear,Summer,Female,Tank Top,Culottes,Handbag,Sneakers,Casual,Snowy,Polyester,Slim Fit,Adults,Pastel tones,Luxury,Zara,Modern,Streetwear
+Pear,Summer,Female,Hoodie,Jeans,Ring,Flip-Flops,Formal,Cloudy,Wool,Slim Fit,Adults,Bright hues,Mid-range,Uniqlo,Fusion,Streetwear
+Pear,Summer,Female,Sweater,Skirt,Sunglasses,Slippers,Casual,Rainy,Polyester,Slim Fit,Teens,Pastel tones,Affordable,Uniqlo,Fusion,Boho Chic
+Pear,Summer,Female,Blouse,Joggers,Bracelet,Wedges,Formal,Snowy,Silk,Loose Fit,Seniors,Bright hues,Luxury,Nike,Modern,Streetwear
+Pear,Autumn,Male,Crop Top,Chinos,Watch,Loafers,Formal,Cloudy,Wool,Loose Fit,Adults,Pastel tones,Mid-range,Zara,Fusion,Boho Chic
+Pear,Autumn,Male,Cardigan,Overalls,Hat,Oxfords,Sports,Rainy,Silk,Loose Fit,Adults,Pastel tones,Luxury,Uniqlo,Fusion,Streetwear
+Pear,Autumn,Male,Tank Top,Skirt,Handbag,Slippers,Casual,Sunny,Silk,Slim Fit,Seniors,Bright hues,Affordable,Zara,Minimalist,Boho Chic
+Pear,Autumn,Male,T-shirt,Cargo Pants,Bracelet,Sneakers,Sports,Snowy,Silk,Loose Fit,Seniors,Bright hues,Mid-range,Uniqlo,Traditional,Boho Chic
+Pear,Autumn,Male,Cardigan,Skirt,Watch,Moccasins,Formal,Snowy,Silk,Loose Fit,Teens,Earthy shades,Mid-range,Uniqlo,Modern,Streetwear
+Pear,Autumn,Male,Shirt,Shorts,Belt,Moccasins,Sports,Cloudy,Silk,Regular Fit,Seniors,Pastel tones,Luxury,Uniqlo,Modern,Athleisure
+Pear,Autumn,Male,Cardigan,Chinos,Watch,Flip-Flops,Formal,Cloudy,Polyester,Slim Fit,Teens,Bright hues,Luxury,Nike,Minimalist,Streetwear
+Pear,Autumn,Male,Tank Top,Trousers,Necklace,Moccasins,Party,Cloudy,Silk,Regular Fit,Adults,Earthy shades,Mid-range,Uniqlo,Modern,Y2K Style
+Pear,Autumn,Male,Cardigan,Shorts,Necklace,Oxfords,Sports,Snowy,Silk,Loose Fit,Teens,Bright hues,Affordable,Zara,Minimalist,Boho Chic
+Pear,Autumn,Male,Shirt,Chinos,Bracelet,Oxfords,Party,Rainy,Wool,Loose Fit,Seniors,Bright hues,Affordable,H&M,Fusion,Boho Chic
+Pear,Autumn,Female,Cardigan,Skirt,Handbag,Oxfords,Party,Rainy,Silk,Regular Fit,Adults,Earthy shades,Mid-range,Zara,Traditional,Boho Chic
+Pear,Autumn,Female,Hoodie,Leggings,Ring,Moccasins,Party,Snowy,Wool,Slim Fit,Adults,Earthy shades,Luxury,Nike,Fusion,Athleisure
+Pear,Autumn,Female,Polo Shirt,Chinos,Earrings,Loafers,Party,Snowy,Wool,Slim Fit,Teens,Earthy shades,Affordable,Zara,Traditional,Boho Chic
+Pear,Autumn,Female,Vest,Chinos,Earrings,Sandals,Sports,Snowy,Wool,Regular Fit,Adults,Muted colors,Mid-range,Uniqlo,Minimalist,Athleisure
+Pear,Autumn,Female,Tank Top,Trousers,Handbag,Loafers,Formal,Rainy,Silk,Regular Fit,Seniors,Pastel tones,Affordable,Uniqlo,Traditional,Athleisure
+Pear,Autumn,Female,T-shirt,Chinos,Handbag,Moccasins,Formal,Rainy,Cotton,Slim Fit,Adults,Bright hues,Luxury,H&M,Minimalist,Athleisure
+Pear,Autumn,Female,Blouse,Skirt,Watch,Wedges,Sports,Sunny,Cotton,Slim Fit,Teens,Muted colors,Luxury,H&M,Minimalist,Streetwear
+Pear,Autumn,Female,Tank Top,Chinos,Ring,Slippers,Formal,Sunny,Wool,Slim Fit,Seniors,Muted colors,Mid-range,H&M,Minimalist,Streetwear
+Pear,Autumn,Female,Polo Shirt,Shorts,Belt,Flip-Flops,Casual,Snowy,Wool,Regular Fit,Adults,Pastel tones,Luxury,Uniqlo,Modern,Athleisure
+Pear,Autumn,Female,Hoodie,Leggings,Earrings,Wedges,Party,Sunny,Cotton,Regular Fit,Teens,Earthy shades,Luxury,Uniqlo,Fusion,Y2K Style
+Pear,Winter,Male,Polo Shirt,Joggers,Belt,Boots,Formal,Cloudy,Silk,Loose Fit,Seniors,Pastel tones,Mid-range,Uniqlo,Traditional,Boho Chic
+Pear,Winter,Male,T-shirt,Chinos,Earrings,Slippers,Formal,Cloudy,Silk,Slim Fit,Teens,Pastel tones,Affordable,H&M,Traditional,Boho Chic
+Pear,Winter,Male,Crop Top,Jeans,Sunglasses,Sandals,Casual,Sunny,Cotton,Regular Fit,Adults,Pastel tones,Luxury,Zara,Fusion,Athleisure
+Pear,Winter,Male,Polo Shirt,Jeans,Handbag,Slippers,Formal,Snowy,Polyester,Slim Fit,Seniors,Earthy shades,Luxury,Uniqlo,Modern,Streetwear
+Pear,Winter,Male,Blouse,Shorts,Handbag,Boots,Casual,Rainy,Silk,Slim Fit,Teens,Earthy shades,Luxury,Nike,Fusion,Y2K Style
+Pear,Winter,Male,Hoodie,Shorts,Earrings,Boots,Party,Cloudy,Silk,Slim Fit,Teens,Bright hues,Affordable,Uniqlo,Traditional,Y2K Style
+Pear,Winter,Male,Polo Shirt,Leggings,Earrings,Heels,Sports,Sunny,Polyester,Regular Fit,Teens,Pastel tones,Mid-range,Zara,Modern,Streetwear
+Pear,Winter,Male,Shirt,Trousers,Ring,Boots,Casual,Snowy,Silk,Slim Fit,Adults,Pastel tones,Luxury,H&M,Fusion,Y2K Style
+Pear,Winter,Male,Crop Top,Leggings,Ring,Boots,Party,Rainy,Cotton,Regular Fit,Adults,Pastel tones,Affordable,Zara,Fusion,Athleisure
+Pear,Winter,Male,Vest,Leggings,Earrings,Heels,Party,Rainy,Polyester,Loose Fit,Teens,Pastel tones,Luxury,Uniqlo,Modern,Streetwear
+Pear,Winter,Female,Tank Top,Leggings,Scarf,Moccasins,Casual,Rainy,Silk,Loose Fit,Adults,Bright hues,Affordable,Zara,Minimalist,Athleisure
+Pear,Winter,Female,Tank Top,Joggers,Scarf,Sneakers,Party,Sunny,Silk,Loose Fit,Seniors,Bright hues,Luxury,Uniqlo,Traditional,Y2K Style
+Pear,Winter,Female,Tank Top,Joggers,Scarf,Flip-Flops,Formal,Rainy,Wool,Slim Fit,Teens,Muted colors,Mid-range,H&M,Traditional,Y2K Style
+Pear,Winter,Female,Polo Shirt,Jeans,Handbag,Slippers,Casual,Sunny,Wool,Slim Fit,Seniors,Earthy shades,Affordable,Uniqlo,Traditional,Streetwear
+Pear,Winter,Female,Sweater,Overalls,Bracelet,Wedges,Formal,Cloudy,Silk,Loose Fit,Seniors,Earthy shades,Mid-range,Uniqlo,Minimalist,Streetwear
+Pear,Winter,Female,Sweater,Skirt,Handbag,Sneakers,Casual,Snowy,Cotton,Slim Fit,Seniors,Bright hues,Mid-range,Uniqlo,Minimalist,Boho Chic
+Pear,Winter,Female,Cardigan,Culottes,Belt,Sneakers,Casual,Cloudy,Cotton,Regular Fit,Seniors,Pastel tones,Luxury,H&M,Fusion,Streetwear
+Pear,Winter,Female,Tank Top,Jeans,Earrings,Sneakers,Casual,Rainy,Wool,Slim Fit,Teens,Pastel tones,Affordable,H&M,Fusion,Streetwear
+Pear,Winter,Female,Hoodie,Skirt,Bracelet,Heels,Formal,Snowy,Cotton,Loose Fit,Adults,Bright hues,Affordable,Zara,Modern,Athleisure
+Pear,Winter,Female,Tank Top,Jeans,Sunglasses,Sandals,Casual,Cloudy,Polyester,Loose Fit,Seniors,Muted colors,Mid-range,Nike,Traditional,Boho Chic
+Apple,Spring,Male,Sweater,Shorts,Bracelet,Wedges,Party,Rainy,Cotton,Slim Fit,Teens,Muted colors,Mid-range,Uniqlo,Modern,Boho Chic
+Apple,Spring,Male,Vest,Trousers,Ring,Loafers,Party,Rainy,Polyester,Slim Fit,Seniors,Bright hues,Mid-range,H&M,Modern,Athleisure
+Apple,Spring,Male,Blouse,Cargo Pants,Bracelet,Sandals,Formal,Cloudy,Cotton,Regular Fit,Teens,Earthy shades,Mid-range,Nike,Modern,Athleisure
+Apple,Spring,Male,Polo Shirt,Shorts,Ring,Loafers,Sports,Sunny,Polyester,Slim Fit,Seniors,Muted colors,Affordable,Zara,Modern,Athleisure
+Apple,Spring,Male,T-shirt,Overalls,Necklace,Oxfords,Formal,Sunny,Silk,Slim Fit,Seniors,Earthy shades,Mid-range,Uniqlo,Minimalist,Boho Chic
+Apple,Spring,Male,Crop Top,Trousers,Belt,Boots,Party,Sunny,Silk,Loose Fit,Seniors,Muted colors,Mid-range,H&M,Minimalist,Boho Chic
+Apple,Spring,Male,Hoodie,Shorts,Necklace,Wedges,Casual,Snowy,Silk,Loose Fit,Adults,Muted colors,Luxury,Zara,Minimalist,Streetwear
+Apple,Spring,Male,Cardigan,Overalls,Bracelet,Loafers,Party,Cloudy,Cotton,Slim Fit,Teens,Muted colors,Mid-range,Nike,Fusion,Streetwear
+Apple,Spring,Male,Hoodie,Overalls,Necklace,Oxfords,Casual,Rainy,Wool,Regular Fit,Seniors,Muted colors,Mid-range,Zara,Fusion,Streetwear
+Apple,Spring,Male,Shirt,Jeans,Hat,Oxfords,Formal,Cloudy,Wool,Slim Fit,Teens,Bright hues,Affordable,Zara,Fusion,Streetwear
+Apple,Spring,Female,Vest,Culottes,Handbag,Flip-Flops,Sports,Snowy,Polyester,Slim Fit,Seniors,Bright hues,Affordable,H&M,Modern,Y2K Style
+Apple,Spring,Female,Cardigan,Skirt,Belt,Sandals,Party,Cloudy,Wool,Slim Fit,Seniors,Bright hues,Luxury,H&M,Minimalist,Streetwear
+Apple,Spring,Female,Vest,Chinos,Necklace,Sandals,Party,Sunny,Cotton,Loose Fit,Seniors,Earthy shades,Mid-range,H&M,Traditional,Y2K Style
+Apple,Spring,Female,Hoodie,Chinos,Watch,Moccasins,Sports,Rainy,Cotton,Loose Fit,Adults,Earthy shades,Affordable,Nike,Modern,Y2K Style
+Apple,Spring,Female,Crop Top,Skirt,Ring,Oxfords,Sports,Cloudy,Silk,Regular Fit,Teens,Muted colors,Luxury,H&M,Traditional,Boho Chic
+Apple,Spring,Female,T-shirt,Skirt,Ring,Heels,Formal,Rainy,Polyester,Slim Fit,Teens,Bright hues,Mid-range,Nike,Traditional,Athleisure
+Apple,Spring,Female,Tank Top,Joggers,Watch,Wedges,Casual,Sunny,Wool,Slim Fit,Teens,Muted colors,Affordable,H&M,Traditional,Y2K Style
+Apple,Spring,Female,Cardigan,Overalls,Hat,Sandals,Sports,Cloudy,Polyester,Loose Fit,Teens,Muted colors,Mid-range,Nike,Fusion,Athleisure
+Apple,Spring,Female,Shirt,Leggings,Handbag,Sneakers,Formal,Cloudy,Cotton,Loose Fit,Seniors,Earthy shades,Affordable,Zara,Fusion,Boho Chic
+Apple,Spring,Female,Vest,Cargo Pants,Belt,Boots,Formal,Rainy,Silk,Regular Fit,Adults,Earthy shades,Mid-range,Nike,Minimalist,Streetwear
+Apple,Summer,Male,T-shirt,Chinos,Belt,Boots,Casual,Snowy,Silk,Loose Fit,Seniors,Earthy shades,Affordable,Zara,Modern,Streetwear
+Apple,Summer,Male,Crop Top,Trousers,Bracelet,Boots,Casual,Sunny,Silk,Regular Fit,Adults,Earthy shades,Mid-range,Uniqlo,Modern,Y2K Style
+Apple,Summer,Male,Vest,Cargo Pants,Watch,Moccasins,Sports,Snowy,Wool,Loose Fit,Adults,Pastel tones,Mid-range,Zara,Fusion,Streetwear
+Apple,Summer,Male,Blouse,Chinos,Necklace,Loafers,Casual,Cloudy,Wool,Slim Fit,Teens,Bright hues,Mid-range,H&M,Fusion,Boho Chic
+Apple,Summer,Male,T-shirt,Skirt,Necklace,Sandals,Formal,Cloudy,Wool,Regular Fit,Adults,Muted colors,Mid-range,Nike,Minimalist,Streetwear
+Apple,Summer,Male,Tank Top,Skirt,Handbag,Flip-Flops,Party,Rainy,Polyester,Regular Fit,Seniors,Pastel tones,Luxury,H&M,Minimalist,Y2K Style
+Apple,Summer,Male,Shirt,Jeans,Sunglasses,Oxfords,Sports,Sunny,Wool,Loose Fit,Seniors,Bright hues,Luxury,Zara,Traditional,Streetwear
+Apple,Summer,Male,Polo Shirt,Leggings,Bracelet,Loafers,Casual,Sunny,Polyester,Loose Fit,Adults,Pastel tones,Luxury,Zara,Minimalist,Boho Chic
+Apple,Summer,Male,T-shirt,Cargo Pants,Scarf,Boots,Casual,Cloudy,Silk,Loose Fit,Teens,Muted colors,Luxury,Uniqlo,Minimalist,Athleisure
+Apple,Summer,Male,Cardigan,Skirt,Scarf,Flip-Flops,Formal,Sunny,Wool,Loose Fit,Teens,Pastel tones,Luxury,H&M,Minimalist,Streetwear
+Apple,Summer,Female,Crop Top,Skirt,Earrings,Oxfords,Casual,Rainy,Silk,Regular Fit,Adults,Earthy shades,Affordable,Uniqlo,Modern,Streetwear
+Apple,Summer,Female,Hoodie,Overalls,Watch,Heels,Sports,Sunny,Silk,Loose Fit,Adults,Earthy shades,Luxury,H&M,Modern,Streetwear
+Apple,Summer,Female,Sweater,Joggers,Bracelet,Sandals,Formal,Snowy,Polyester,Slim Fit,Teens,Bright hues,Luxury,H&M,Traditional,Y2K Style
+Apple,Summer,Female,Crop Top,Cargo Pants,Bracelet,Heels,Casual,Rainy,Wool,Slim Fit,Teens,Bright hues,Mid-range,Uniqlo,Modern,Athleisure
+Apple,Summer,Female,T-shirt,Skirt,Scarf,Sneakers,Formal,Sunny,Wool,Loose Fit,Seniors,Bright hues,Affordable,H&M,Minimalist,Athleisure
+Apple,Summer,Female,Crop Top,Culottes,Bracelet,Flip-Flops,Sports,Snowy,Silk,Loose Fit,Adults,Earthy shades,Mid-range,Uniqlo,Fusion,Y2K Style
+Apple,Summer,Female,Crop Top,Shorts,Belt,Heels,Casual,Cloudy,Silk,Loose Fit,Teens,Pastel tones,Affordable,Uniqlo,Fusion,Boho Chic
+Apple,Summer,Female,Blouse,Cargo Pants,Watch,Oxfords,Casual,Snowy,Cotton,Regular Fit,Adults,Earthy shades,Luxury,Uniqlo,Minimalist,Y2K Style
+Apple,Summer,Female,T-shirt,Trousers,Necklace,Wedges,Formal,Snowy,Wool,Regular Fit,Teens,Earthy shades,Luxury,Nike,Modern,Boho Chic
+Apple,Summer,Female,Blouse,Jeans,Necklace,Heels,Party,Rainy,Wool,Regular Fit,Teens,Pastel tones,Mid-range,H&M,Traditional,Streetwear
+Apple,Autumn,Male,T-shirt,Skirt,Belt,Sneakers,Formal,Rainy,Wool,Regular Fit,Adults,Earthy shades,Mid-range,Nike,Modern,Boho Chic
+Apple,Autumn,Male,T-shirt,Skirt,Hat,Loafers,Formal,Snowy,Wool,Loose Fit,Seniors,Muted colors,Mid-range,Uniqlo,Modern,Boho Chic
+Apple,Autumn,Male,Shirt,Joggers,Scarf,Heels,Party,Rainy,Cotton,Regular Fit,Teens,Earthy shades,Affordable,Uniqlo,Modern,Streetwear
+Apple,Autumn,Male,Polo Shirt,Cargo Pants,Handbag,Wedges,Casual,Cloudy,Wool,Loose Fit,Seniors,Bright hues,Luxury,H&M,Minimalist,Y2K Style
+Apple,Autumn,Male,Shirt,Cargo Pants,Sunglasses,Moccasins,Casual,Cloudy,Cotton,Slim Fit,Adults,Pastel tones,Luxury,H&M,Minimalist,Streetwear
+Apple,Autumn,Male,Cardigan,Culottes,Bracelet,Flip-Flops,Sports,Snowy,Wool,Loose Fit,Teens,Pastel tones,Mid-range,H&M,Fusion,Y2K Style
+Apple,Autumn,Male,Tank Top,Culottes,Bracelet,Slippers,Party,Cloudy,Cotton,Slim Fit,Seniors,Pastel tones,Luxury,Nike,Fusion,Boho Chic
+Apple,Autumn,Male,Hoodie,Joggers,Belt,Loafers,Formal,Snowy,Silk,Loose Fit,Seniors,Bright hues,Affordable,Uniqlo,Traditional,Boho Chic
+Apple,Autumn,Male,Tank Top,Chinos,Belt,Moccasins,Casual,Sunny,Cotton,Regular Fit,Teens,Bright hues,Mid-range,Zara,Fusion,Streetwear
+Apple,Autumn,Male,Cardigan,Cargo Pants,Bracelet,Slippers,Formal,Sunny,Wool,Slim Fit,Adults,Muted colors,Mid-range,Nike,Fusion,Boho Chic
+Apple,Autumn,Female,Cardigan,Chinos,Scarf,Wedges,Sports,Cloudy,Cotton,Loose Fit,Teens,Pastel tones,Affordable,Uniqlo,Minimalist,Y2K Style
+Apple,Autumn,Female,Cardigan,Cargo Pants,Watch,Heels,Party,Cloudy,Silk,Slim Fit,Adults,Pastel tones,Luxury,H&M,Fusion,Streetwear
+Apple,Autumn,Female,Hoodie,Leggings,Handbag,Slippers,Formal,Snowy,Polyester,Slim Fit,Teens,Earthy shades,Luxury,Zara,Modern,Athleisure
+Apple,Autumn,Female,Vest,Chinos,Necklace,Heels,Sports,Snowy,Silk,Loose Fit,Adults,Muted colors,Affordable,H&M,Traditional,Streetwear
+Apple,Autumn,Female,Hoodie,Shorts,Ring,Oxfords,Party,Sunny,Wool,Slim Fit,Seniors,Pastel tones,Mid-range,Uniqlo,Modern,Athleisure
+Apple,Autumn,Female,Cardigan,Shorts,Ring,Wedges,Formal,Sunny,Cotton,Loose Fit,Teens,Pastel tones,Mid-range,Nike,Fusion,Athleisure
+Apple,Autumn,Female,Hoodie,Joggers,Ring,Sneakers,Sports,Sunny,Cotton,Loose Fit,Seniors,Earthy shades,Affordable,H&M,Traditional,Y2K Style
+Apple,Autumn,Female,Sweater,Leggings,Watch,Slippers,Formal,Rainy,Wool,Loose Fit,Adults,Pastel tones,Affordable,H&M,Traditional,Athleisure
+Apple,Autumn,Female,Vest,Cargo Pants,Watch,Loafers,Party,Snowy,Polyester,Loose Fit,Adults,Pastel tones,Affordable,Nike,Traditional,Streetwear
+Apple,Autumn,Female,Blouse,Chinos,Hat,Boots,Casual,Sunny,Polyester,Loose Fit,Teens,Bright hues,Mid-range,H&M,Traditional,Athleisure
+Apple,Winter,Male,Cardigan,Culottes,Handbag,Sneakers,Casual,Cloudy,Polyester,Regular Fit,Teens,Muted colors,Mid-range,Uniqlo,Minimalist,Boho Chic
+Apple,Winter,Male,Polo Shirt,Shorts,Watch,Slippers,Formal,Cloudy,Polyester,Loose Fit,Teens,Muted colors,Mid-range,H&M,Minimalist,Streetwear
+Apple,Winter,Male,Cardigan,Overalls,Belt,Heels,Sports,Sunny,Cotton,Regular Fit,Teens,Bright hues,Luxury,Zara,Minimalist,Streetwear
+Apple,Winter,Male,Blouse,Jeans,Handbag,Oxfords,Sports,Rainy,Cotton,Loose Fit,Teens,Earthy shades,Luxury,Nike,Fusion,Athleisure
+Apple,Winter,Male,Cardigan,Cargo Pants,Ring,Flip-Flops,Sports,Rainy,Polyester,Loose Fit,Teens,Earthy shades,Mid-range,Nike,Fusion,Streetwear
+Apple,Winter,Male,T-shirt,Joggers,Belt,Oxfords,Party,Cloudy,Silk,Slim Fit,Teens,Bright hues,Mid-range,Uniqlo,Fusion,Y2K Style
+Apple,Winter,Male,Tank Top,Trousers,Scarf,Moccasins,Sports,Sunny,Polyester,Regular Fit,Adults,Pastel tones,Affordable,Nike,Traditional,Athleisure
+Apple,Winter,Male,Crop Top,Shorts,Earrings,Wedges,Casual,Rainy,Silk,Slim Fit,Seniors,Pastel tones,Mid-range,Nike,Minimalist,Athleisure
+Apple,Winter,Male,Tank Top,Overalls,Hat,Heels,Formal,Rainy,Polyester,Slim Fit,Adults,Pastel tones,Luxury,Nike,Minimalist,Y2K Style
+Apple,Winter,Male,T-shirt,Shorts,Handbag,Sneakers,Formal,Snowy,Silk,Regular Fit,Seniors,Muted colors,Affordable,Nike,Traditional,Streetwear
+Apple,Winter,Female,Crop Top,Overalls,Hat,Sandals,Formal,Cloudy,Polyester,Loose Fit,Teens,Muted colors,Luxury,Nike,Traditional,Y2K Style
+Apple,Winter,Female,Sweater,Cargo Pants,Belt,Heels,Party,Snowy,Cotton,Loose Fit,Seniors,Bright hues,Mid-range,Nike,Traditional,Streetwear
+Apple,Winter,Female,Tank Top,Skirt,Bracelet,Flip-Flops,Sports,Cloudy,Polyester,Regular Fit,Seniors,Earthy shades,Affordable,Uniqlo,Minimalist,Athleisure
+Apple,Winter,Female,Blouse,Overalls,Earrings,Slippers,Formal,Snowy,Cotton,Regular Fit,Teens,Muted colors,Affordable,Nike,Traditional,Athleisure
+Apple,Winter,Female,Cardigan,Culottes,Watch,Sandals,Formal,Rainy,Wool,Loose Fit,Adults,Pastel tones,Affordable,Uniqlo,Modern,Athleisure
+Apple,Winter,Female,Cardigan,Chinos,Sunglasses,Slippers,Party,Rainy,Polyester,Slim Fit,Adults,Bright hues,Affordable,Uniqlo,Minimalist,Y2K Style
+Apple,Winter,Female,Blouse,Jeans,Earrings,Slippers,Formal,Cloudy,Wool,Slim Fit,Seniors,Earthy shades,Mid-range,H&M,Minimalist,Y2K Style
+Apple,Winter,Female,Polo Shirt,Chinos,Earrings,Boots,Casual,Cloudy,Cotton,Regular Fit,Seniors,Muted colors,Mid-range,Zara,Modern,Athleisure
+Apple,Winter,Female,Vest,Overalls,Belt,Flip-Flops,Formal,Cloudy,Wool,Slim Fit,Teens,Pastel tones,Mid-range,H&M,Traditional,Athleisure
+Apple,Winter,Female,Crop Top,Skirt,Ring,Sneakers,Party,Snowy,Cotton,Regular Fit,Adults,Earthy shades,Mid-range,Uniqlo,Modern,Athleisure
